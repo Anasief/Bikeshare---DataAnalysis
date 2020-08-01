@@ -32,4 +32,4 @@ The Chicago and New York City files also have the following two columns:
   - bikeshare.py
   
  ## How to run
- In order to run this unzip the 'Data' file and copy the 3 .csv files to the main directory with the bikeshare.py file and use the terminal to run the file.
+ In order to run this unzip the 'Data' file then copy the 3 .csv files to the main directory with the bikeshare.py file and use the terminal to run the file.
