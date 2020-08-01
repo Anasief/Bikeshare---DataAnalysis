@@ -28,7 +28,8 @@ The Chicago and New York City files also have the following two columns:
   - Birth Year.
  
  ## Files
-  - chicago.csv
-  - new_york_city.csv
-  - washington.csv
+  - Data.zip contains all data used(chicago.csv, new_york_city.csv, washington.csv) 
   - bikeshare.py
+  
+ ## How to run
+ In order to run this unzip the 'Data' file and copy the 3 .csv files to the main directory with the bikeshare.py file and use the terminal to run the file.
